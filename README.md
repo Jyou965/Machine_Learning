@@ -1,7 +1,7 @@
 # Machine_Learning
 Challeng 13
 
-This application creatss binary classification models that predict whether VC funding applicants will be successful by using a deep learning neural network.
+This application creats binary classification models that predict the startup project success rates by using a deep learning neural network.
 
 ---
 
